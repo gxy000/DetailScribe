@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="10.45.7.87" id="a018a2a5-d0a1-4691-9269-4d931b4ff5d5" port="22" nameFormat="DESCRIPTIVE" username="gxy" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="login.csail.mit.edu" id="94beae0c-00f3-495f-a9c2-b633e96b86ba" port="22" nameFormat="DESCRIPTIVE" username="gxy" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="mothra.mit.edu" id="551c8418-2508-4ae0-8e75-296faaeecad1" port="22" nameFormat="DESCRIPTIVE" username="gxy" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>

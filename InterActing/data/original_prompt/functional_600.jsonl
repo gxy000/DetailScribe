@@ -1,0 +1,600 @@
+{"topic": "octopus-paint-canvas", "prompt": "An octopus in an art studio is painting on a canvas."}
+{"topic": "cat-sail", "prompt": "A cat sails across the sea in a large seashell, holding a mast."}
+{"topic": "fox-stir-stew", "prompt": "A fox stirs a stew in a hollowed-out tree trunk."}
+{"topic": "squirrel-take-photo", "prompt": "A squirrel taking photos with a camera."}
+{"topic": "rabbit-sculpt-snow", "prompt": "A rabbit carefully sculpts a tiny snow bunny with its paws, adding details like ears and whiskers to the figure."}
+{"topic": "heron-fishing", "prompt": "A heron fishing by the river."}
+{"topic": "build", "prompt": "An anime of a mouse constructing a tiny castle with blocks, carefully stacking each piece, with tools like a mini hammer and ruler scattered around."}
+{"topic": "bake", "prompt": "An anime of a hedgehog in a tiny apron, rolling dough with a miniature rolling pin, preparing a berry pie with a cheerful expression."}
+{"topic": "play-chess", "prompt": "An anime of a raven perched on a table, moving pieces on a tiny chessboard with its beak, calculating each move as it faces off against another bird."}
+{"topic": "carve-wood", "prompt": "An anime of a beaver wearing a small hat, using its teeth to carve an intricate wooden statue, with wood shavings scattered around."}
+{"topic": "serve", "prompt": "A penguin wearing a small bow tie balancing a tray with a fish platter, ready to serve it at a fancy dinner."}
+{"topic": "cook", "prompt": "A bear in a tiny chef hat flipping pancakes in a pan, with jars of honey around, preparing breakfast in the forest."}
+{"topic": "fly-a-kite", "prompt": "An elephant holding a vine tied to a leaf-shaped kite, flying it in the air on a breezy day."}
+{"topic": "make-a-potion", "prompt": "A crow wearing glasses mixing colorful, glowing potions in tiny vials using its beak in a spooky forest."}
+{"topic": "polar-bear-cut-cake", "prompt": "An anime of a polar bear carefully cutting a berry cake."}
+{"topic": "raccoon-sweep-floor", "prompt": "An anime of a raccoon sweeping floor with a broom."}
+{"topic": "frog-sing", "prompt": "An anime of a frog singing with a microphone on hand by a pond."}
+{"topic": "beaver-drink", "prompt": "An anime of a beaver sipping water from a pond through a hollow stick like a straw."}
+{"topic": "rabbit-set-table", "prompt": "An anime of a rabbit setting plates on a rock 'table.'"}
+{"topic": "squirrel-carve-acorn", "prompt": "An anime of a squirrel carving a design on an acorn using a chisel."}
+{"topic": "fox-pour-tea", "prompt": "An anime of a fox pouring tea from a tiny pot into cups."}
+{"topic": "cricket-write-music-leaves", "prompt": "An anime of a cricket scratching musical notes onto a large leaf with a pen."}
+{"topic": "beaver-cut-pizza", "prompt": "An anime of a beaver cutting a pizza."}
+{"topic": "rabbit-paint-mural", "prompt": "An anime of a rabbit painting a colorful mural on a wall."}
+{"topic": "bear-mop-floor", "prompt": "An anime of a bear cleaning its cave floor with a bundle of grass."}
+{"topic": "draped-over", "prompt": "A colorful scarf draped over a wooden chair."}
+{"topic": "playing-guitar", "prompt": "An octopus playing guitar in a rock band."}
+{"topic": "playing-chess", "prompt": "A robot playing chess with a grandmaster."}
+{"topic": "balancing-on", "prompt": "A cat balancing on a narrow fence."}
+{"topic": "painted-a-portrait", "prompt": "A cat painted a portrait using vibrant watercolors."}
+{"topic": "posing with", "prompt": "A kangaroo posing with a skateboard."}
+{"topic": "reflecting-in", "prompt": "A cat reflecting in a calm pond, capturing a mirror image of its playful stance."}
+{"topic": "eating-at", "prompt": "A family eating at a colorful picnic table in a sunny park."}
+{"topic": "walking-up", "prompt": "A man walking up a steep hill with determination."}
+{"topic": "sewn-on", "prompt": "A colorful patch sewn on a denim jacket."}
+{"topic": "playing-guitar_2", "prompt": "A cat playing the guitar on a sunny afternoon."}
+{"topic": "reading-a-book", "prompt": "A cactus reading a book under the sun."}
+{"topic": "getting-on", "prompt": "A panda getting on a bicycle."}
+{"topic": "approaching", "prompt": "A storm cloud approaching the coastline."}
+{"topic": "walking-towards", "prompt": "A cat walking towards a bright patch of sunlight on the floor."}
+{"topic": "playing-guitar_3", "prompt": "A dog playing guitar on a sunny afternoon."}
+{"topic": "growing-by", "prompt": "The city skyline evolves and becomes more dynamic with new skyscrapers growing by regularly reshaping the horizon."}
+{"topic": "grabbing", "prompt": "An octopus grabbing a shiny pearl from the ocean floor."}
+{"topic": "playing-music", "prompt": "A tree playing music with a guitar."}
+{"topic": "scattered-on", "prompt": "Colorful marbles scattered on the wooden floor."}
+{"topic": "jumping-on", "prompt": "A dog jumping on a bed."}
+{"topic": "opening-a-door", "prompt": "A dog opening a door with its paw."}
+{"topic": "climbing", "prompt": "A curious monkey climbing a tall coconut tree."}
+{"topic": "pointing-at", "prompt": "An owl pointing at something from a branch."}
+{"topic": "coming-down", "prompt": "A leaf fluttering gently, coming down from the tree."}
+{"topic": "preparing", "prompt": "A chef chopping vegetables and marinating meat for a special dish."}
+{"topic": "going-into", "prompt": "A rabbit going into its hole to hide from predators."}
+{"topic": "decorating", "prompt": "A cat decorating a Christmas tree with shiny ornaments."}
+{"topic": "tossing", "prompt": "A chef tossing a salad with fresh ingredients."}
+{"topic": "growing-from", "prompt": "A tree growing from a small seed."}
+{"topic": "washing", "prompt": "A bear washing its paws in a stream."}
+{"topic": "herding", "prompt": "A dog skillfully herding a flock of sheep across the meadow."}
+{"topic": "chewing", "prompt": "A horse chewing on a hay bale in the barn."}
+{"topic": "working-in", "prompt": "A scientist working in a cutting-edge laboratory on groundbreaking research."}
+{"topic": "picking-up", "prompt": "A cat picking up a toy mouse with its paw."}
+{"topic": "looking-over", "prompt": "A hiker looking over a vast mountain range."}
+{"topic": "skiing-down", "prompt": "A bear skiing down the snowy mountain slope with grace and speed."}
+{"topic": "slicing", "prompt": "A chef slicing fresh vegetables with a sharp knife."}
+{"topic": "typing-on", "prompt": "A cat typing on a keyboard with curiosity."}
+{"topic": "tying", "prompt": "A child tying their shoelaces."}
+{"topic": "walking to", "prompt": "A cat energetically walking to its food bowl."}
+{"topic": "shining-through", "prompt": "Sunlight shining through the dense forest canopy."}
+{"topic": "cleaning", "prompt": "A cat enthusiastically cleaning its paws with its tongue."}
+{"topic": "cooking", "prompt": "A dragon cooking a gourmet meal over an open flame."}
+{"topic": "chopping-vegetables", "prompt": "A robot chopping vegetables with precision in the kitchen."}
+{"topic": "dragging", "prompt": "A cat dragging a blanket across the living room."}
+{"topic": "skating-on", "prompt": "A penguin skating on an icy surface under the winter sun."}
+{"topic": "smelling", "prompt": "A cat smelling a fresh bouquet of flowers."}
+{"topic": "running-through", "prompt": "A deer running through the forest."}
+{"topic": "enclosing", "prompt": "A garden fence enclosing a beautiful flower bed."}
+{"topic": "photographing", "prompt": "A cat photographing birds in the garden with a tiny camera."}
+{"topic": "going-through", "prompt": "A hiker going through a dense forest."}
+{"topic": "walking-into", "prompt": "A cat walking into a cozy living room filled with warm sunlight."}
+{"topic": "falling-off", "prompt": "A skateboard falling off a ramp."}
+{"topic": "decorated-with", "prompt": "A cake adorned with vibrant flowers."}
+{"topic": "walking-past", "prompt": "A fox walking past a moonlit stream in the forest."}
+{"topic": "towing", "prompt": "A bear towing a cart loaded with honey jars through the forest."}
+{"topic": "blowing-out", "prompt": "A child enthusiastically blowing out the candles on a birthday cake."}
+{"topic": "jumping-off", "prompt": "A daredevil raccoon jumping off a rooftop with a tiny parachute."}
+{"topic": "moving", "prompt": "A cat moving swiftly across the garden."}
+{"topic": "running-across", "prompt": "A fox running across an open field."}
+{"topic": "baking-a-cake", "prompt": "A bear baking a cake in the kitchen."}
+{"topic": "hang-from", "prompt": "A monkey hang from a tree branch by its tail."}
+{"topic": "sitting-around", "prompt": "A cat sitting around a cozy fireplace."}
+{"topic": "cooked in", "prompt": "A blend of fresh herbs, seasonal vegetables, and rich broth cooked in a pot."}
+{"topic": "playing-chess_2", "prompt": "A robot playing chess with a human opponent."}
+{"topic": "brushing", "prompt": "A cat brushing its fur with its paws."}
+{"topic": "buying", "prompt": "A kangaroo buying groceries at the local market."}
+{"topic": "standing-around", "prompt": "A group of pigeons standing around a park bench, observing the people passing by."}
+{"topic": "pouring", "prompt": "A barista pouring creamy milk into a freshly brewed espresso."}
+{"topic": "draped-over_2", "prompt": "A flamingo draped over a tree branch, its long neck curving around the limb."}
+{"topic": "growing-behind", "prompt": "A chameleon growing a second tail behind its original one."}
+{"topic": "exiting", "prompt": "A turtle exiting through a revolving door."}
+{"topic": "balancing-on_2", "prompt": "A flamingo balancing on a rolling beach ball."}
+{"topic": "jumping-over_2", "prompt": "A frog effortlessly leapt over a hedgehog, creating a surprising and delightful scene."}
+{"topic": "looking-down-at_2", "prompt": "An owl perched atop a tree branch, looking down at a field mouse scurrying through the underbrush."}
+{"topic": "playing-piano", "prompt": "A tortoise playing piano with a tiny tuxedo on."}
+{"topic": "looking-into_2", "prompt": "An owl peering through a telescope, observing distant stars."}
+{"topic": "posing-with", "prompt": "A chameleon posing with a pair of sunglasses."}
+{"topic": "reflecting-in_2", "prompt": "An octopus reflecting in a tide pool, pondering its own mimicry skills."}
+{"topic": "eating-at_2", "prompt": "An octopus delicately eating at a table with a fork and knife."}
+{"topic": "walking-up_2", "prompt": "A kangaroo climbing stairs with a rhythmic hop."}
+{"topic": "sewn-on_2", "prompt": "An octopus with a patchwork quilt sewn onto its tentacles."}
+{"topic": "leaning-over_2", "prompt": "A giraffe leaning over to whisper secrets to a meerkat."}
+{"topic": "playing-video-games", "prompt": "A fox expertly playing video games on a console."}
+{"topic": "growing-next-to", "prompt": "A rare type of mushroom flourishing on the back of a slow-moving tortoise."}
+{"topic": "playing-guitar_4", "prompt": "A cat playing a guitar with its paws."}
+{"topic": "approaching_2", "prompt": "A chameleon stealthily approaching a cricket on a sunlit leaf."}
+{"topic": "observing_2", "prompt": "A turtle observing a flock of birds through binoculars."}
+{"topic": "traveling-on_2", "prompt": "A tortoise traveling on a skateboard down the sidewalk."}
+{"topic": "walking-towards_2", "prompt": "An ostrich walking towards an umbrella in the middle of a desert."}
+{"topic": "wading-in_2", "prompt": "A koala wading in a shallow creek, looking for eucalyptus leaves floating on the water."}
+{"topic": "playing-guitar_5", "prompt": "An alligator playing guitar with its claws and tail."}
+{"topic": "growing-by_2", "prompt": "A hermit crab growing by collecting ocean treasures and fashioning them into protective and decorative shell extensions."}
+{"topic": "grabbing_2", "prompt": "An octopus grabbing a floating football with its tentacles."}
+{"topic": "growing-along", "prompt": "A lizard growing along a vine, its tail curling gracefully around the twisting stems."}
+{"topic": "skateboarding", "prompt": "A flamingo skateboarding down the street."}
+{"topic": "opening", "prompt": "A raccoon opening a locked treasure chest with a makeshift key."}
+{"topic": "climbing_2", "prompt": "A penguin climbing up a sheer icy cliff face."}
+{"topic": "pointing-at_2", "prompt": "An octopus pointing at something with one of its tentacles."}
+{"topic": "coming-down_2", "prompt": "A koala rappelling down a tree using a harness."}
+{"topic": "preparing_2", "prompt": "A dolphin preparing a bed of seaweed on a sandy ocean floor."}
+{"topic": "going-into_2", "prompt": "A raccoon going into a convenience store, browsing the snack aisle."}
+{"topic": "decorating_2", "prompt": "An octopus arranging colorful shells and rocks to decorate its underwater den."}
+{"topic": "tossing_2", "prompt": "A dolphin tossing a brightly colored beach ball into the air."}
+{"topic": "eating-in_2", "prompt": "A panda sitting at a table, dining with chopsticks."}
+{"topic": "washing_2", "prompt": "A raccoon meticulously washing its food in a stream before eating."}
+{"topic": "herding_2", "prompt": "A group of octopuses strategically guiding fish into tight clusters using their tentacles."}
+{"topic": "chewing_2", "prompt": "An octopus crunching noisily on a piece of coral."}
+{"topic": "working-in_2", "prompt": "A chameleon working in a chemistry lab, skillfully blending in with the colorful glassware and concoctions."}
+{"topic": "picking-up_2", "prompt": "A raccoon picking up shiny objects from the riverbank."}
+{"topic": "looking-over_2", "prompt": "An owl looking over the edge of a book as it studies the pages closely."}
+{"topic": "skiing-down_2", "prompt": "A penguin skiing down a snowy mountainside with surprising agility."}
+{"topic": "standing-against_2", "prompt": "A flamingo standing against a strong wind with its plumage ruffling furiously."}
+{"topic": "trying-to-catch_2", "prompt": "A frog trying to catch fireflies with a net."}
+{"topic": "slicing_2", "prompt": "A beaver meticulously slicing apples with its sharp teeth."}
+{"topic": "stacking-rocks", "prompt": "A penguin stacking rocks carefully on top of one another."}
+{"topic": "typing-on_2", "prompt": "An octopus typing on a keyboard with its tentacles."}
+{"topic": "lying-next-to_2", "prompt": "A chameleon lying next to a colorful yarn ball, matching its hues perfectly to the threads around it as if trying to blend into a knitted world."}
+{"topic": "tying_2", "prompt": "A crow tying knots with a piece of string."}
+{"topic": "guiding_2", "prompt": "A dolphin guiding lost ships through the misty sea using its sonar calls."}
+{"topic": "shining-through_2", "prompt": "A chameleon shining through a stained glass window."}
+{"topic": "smoking_2", "prompt": "A penguin puffing thoughtfully on a pipe."}
+{"topic": "cooking_2", "prompt": "A chimpanzee grilling vegetables over an open fire."}
+{"topic": "conducting-interviews", "prompt": "A penguin conducting interviews with a microphone."}
+{"topic": "wearing", "prompt": "A cat wearing a tiny sweater."}
+{"topic": "holding", "prompt": "A puppy holding a balloon with its teeth."}
+{"topic": "sitting-on", "prompt": "A cat sits on the couch."}
+{"topic": "standing-on", "prompt": "A cat standing on a stack of books."}
+{"topic": "riding", "prompt": "A rabbit riding a skateboard down the sidewalk."}
+{"topic": "standing-in", "prompt": "A flamingo standing in the shallow water of a lagoon."}
+{"topic": "painting", "prompt": "A cat painting a colorful canvas with its paws."}
+{"topic": "lying-on", "prompt": "A cat lying on a warm windowsill."}
+{"topic": "hanging-on", "prompt": "A sloth hanging on a tree branch."}
+{"topic": "eating", "prompt": "A panda eating bamboo shoots with gusto."}
+{"topic": "looking-at", "prompt": "A dog looking at the night sky through a telescope."}
+{"topic": "covering", "prompt": "A cat covering itself with a soft blanket."}
+{"topic": "sitting-in", "prompt": "A cat sitting in a hammock and enjoying the sunny afternoon."}
+{"topic": "hanging-from", "prompt": "A monkey hangs from a tree branch with its tail."}
+{"topic": "parked-on", "prompt": "A bicycle parked on an alley."}
+{"topic": "riding-on", "prompt": "A panda riding on a skateboard."}
+{"topic": "playing-guitar_6", "prompt": "A cat playing guitar to entertain its friends."}
+{"topic": "covered-in-snow", "prompt": "A forest covered in snow, blanketing the trees in white."}
+{"topic": "flying-in", "prompt": "A majestic eagle flying in through the open window."}
+{"topic": "sitting-at", "prompt": "A cat sitting at the window and watching birds outside."}
+{"topic": "playing-with", "prompt": "A group of children playing with colorful kites in the park."}
+{"topic": "reading", "prompt": "A puppy reading a book under a tree."}
+{"topic": "filled-with-laughter", "prompt": "Children in a playground filled with laughter."}
+{"topic": "crossing", "prompt": "A cat crossing the street cautiously during rush hour."}
+{"topic": "swinging", "prompt": "A playful monkey swinging from branch to branch in the jungle."}
+{"topic": "standing-next-to", "prompt": "A giraffe standing next to a tall tree."}
+{"topic": "dancing", "prompt": "A cat dancing under the moonlight."}
+{"topic": "touching", "prompt": "A cat gently touching the sleeping dog's nose with its paw."}
+{"topic": "flying", "prompt": "A fish flying through the air with colorful wings."}
+{"topic": "pulling", "prompt": "A dog pulling on its leash excitedly."}
+{"topic": "contain", "prompt": "A suitcase contains various travel essentials."}
+{"topic": "hitting", "prompt": "An elephant hitting a football with its trunk."}
+{"topic": "lying-in", "prompt": "A cat lying in a sunny spot on the windowsill."}
+{"topic": "standing-by", "prompt": "A guard standing by the entrance, watching for any unusual activity."}
+{"topic": "driving-on", "prompt": "A car driving on winding mountain roads."}
+{"topic": "throwing", "prompt": "A football player throwing a football across the field."}
+{"topic": "sitting-on-top-of", "prompt": "A cat sits on top of a stack of books."}
+{"topic": "walking-down", "prompt": "A young woman walking down the busy street with a cup of coffee in hand."}
+{"topic": "parked-in", "prompt": "A car parked in the garage."}
+{"topic": "standing-near", "prompt": "An artist standing near a lighthouse, sketching its elegant silhouette."}
+{"topic": "performing-tricks", "prompt": "A dog performing tricks for an audience."}
+{"topic": "printed-on", "prompt": "A playful dog graphic printed on a T-shirt."}
+{"topic": "reading-a-book_2", "prompt": "An owl reading a book under the moonlight."}
+{"topic": "facing", "prompt": "A cat facing a dog in the backyard."}
+{"topic": "leaning-against", "prompt": "A cyclist leaning against a lamppost, catching their breath after a long ride."}
+{"topic": "cutting", "prompt": "A chef skillfully cutting vegetables in the kitchen."}
+{"topic": "driving", "prompt": "A dog driving a bright red convertible down the highway."}
+{"topic": "grazing-on", "prompt": "A herd of deer grazing on the lush green meadow."}
+{"topic": "standing-in-front-of", "prompt": "A dog standing in front of a mirror, looking curiously."}
+{"topic": "drinking", "prompt": "A cat sipping milk from a bowl."}
+{"topic": "topped-with", "prompt": "An ice cream sundae topped with whipped cream, cherries, and sprinkles."}
+{"topic": "swimming-in", "prompt": "A goldfish swimming in a crystal-clear pond."}
+{"topic": "driving-down", "prompt": "A driver driving down the winding mountain road at sunset."}
+{"topic": "hanging-over", "prompt": "A cat hanging over the edge of the table."}
+{"topic": "writing-a-book", "prompt": "A ghostwriter working on a novel for an author."}
+{"topic": "pushing", "prompt": "A child pushing a toy car across the floor."}
+{"topic": "playing-guitar_7", "prompt": "A cat playing guitar on a small stage."}
+{"topic": "feeding", "prompt": "Birds gather around a bird feeder, pecking at the sunflower seeds."}
+{"topic": "waiting-for", "prompt": "A commuter waiting for the bus at the corner."}
+{"topic": "running-on", "prompt": "A cat running on a grassy field."}
+{"topic": "playing-chess_3", "prompt": "A dog playing chess with a group of people."}
+{"topic": "talking-to", "prompt": "A knight talking to a dragon in the forest."}
+{"topic": "holding-onto", "prompt": "A koala holding onto a tree branch tightly."}
+{"topic": "eating-from", "prompt": "A chimpanzee eating from a bowl of bananas."}
+{"topic": "perched-on", "prompt": "An eagle perched on a tall cliff watching the sunset."}
+{"topic": "reading_2", "prompt": "A cat reading a book in the library."}
+{"topic": "parked-by", "prompt": "A car parked by a tree."}
+{"topic": "reading-books", "prompt": "A cat reading books in the cozy library."}
+{"topic": "hanging-above", "prompt": "A grand chandelier hanging above the ballroom, casting a warm glow across the dance floor."}
+{"topic": "floating-on", "prompt": "A frog floating on a lily pad."}
+{"topic": "wrapped-around", "prompt": "A snake wrapped around a tree branch."}
+{"topic": "pushing_2", "prompt": "A dog pushing a ball with its nose."}
+{"topic": "wearing_2", "prompt": "A penguin wearing a colorful scarf around its neck."}
+{"topic": "near", "prompt": "A raccoon near an art gallery, appreciating the outdoor sculptures."}
+{"topic": "holding_2", "prompt": "A penguin holding an umbrella against the snow."}
+{"topic": "sitting-on_2", "prompt": "A peacock sitting on a unicycle, gracefully balancing with its tail feathers spread widely."}
+{"topic": "standing-on_2", "prompt": "A penguin standing on a surfboard, riding a wave."}
+{"topic": "carrying_2", "prompt": "A porcupine carrying a basket of pine cones on its back."}
+{"topic": "walking-on_2", "prompt": "A flamingo walking on the surface of a calm lake as if it were solid ground."}
+{"topic": "riding_2", "prompt": "A raccoon riding a skateboard down the sidewalk."}
+{"topic": "standing-in_2", "prompt": "A penguin standing in as a butler, holding a towel over its wing."}
+{"topic": "covered-in-leaves", "prompt": "A turtle covered in leaves while it hides on the forest floor."}
+{"topic": "lying-on_2", "prompt": "A fox lying on a thick bed of soft, colorful autumn leaves."}
+{"topic": "hanging-on_2", "prompt": "A koala clinging tightly to a tree branch, swaying gently with the breeze."}
+{"topic": "eating_2", "prompt": "A fox elegantly savoring gourmet truffle risotto in a forest clearing."}
+{"topic": "watching_2", "prompt": "An octopus watching a television screen intently."}
+{"topic": "looking-at_2", "prompt": "A chameleon looking at a vibrant kaleidoscope with its independently rotating eyes."}
+{"topic": "sitting-in_2", "prompt": "A penguin sitting in a director's chair during a movie shoot."}
+{"topic": "hanging-from_2", "prompt": "A chameleon hanging from a weeping willow branch."}
+{"topic": "parked-on_2", "prompt": "A flamingo parked on a unicycle, balancing gracefully as it surveys its surroundings."}
+{"topic": "riding-on_2", "prompt": "A crab riding on a turtle's shell as it swims through the ocean."}
+{"topic": "using-tools", "prompt": "An octopus using a coconut shell as a shelter."}
+{"topic": "covered-in", "prompt": "A koala covered in colorful autumn leaves."}
+{"topic": "flying-in_2", "prompt": "A penguin flying in with a jetpack."}
+{"topic": "sitting-at_2", "prompt": "An owl sitting at a typewriter, crafting a story."}
+{"topic": "playing-with_2", "prompt": "An octopus playing with a Rubik's Cube."}
+{"topic": "enthusiasm", "prompt": "A penguin bursting with enthusiasm as it breaks into a joyful dance on the icy tundra."}
+{"topic": "ambition", "prompt": "A rabbit filled with ambition, determinedly scaling a steep hill with a tiny backpack."}
+{"topic": "walking-in_2", "prompt": "A flamingo strutting into a cafe with confident grace."}
+{"topic": "constructing-bridges", "prompt": "A beaver constructing bridges with sticks and leaves."}
+{"topic": "surrounded-by", "prompt": "A curious fox surrounded by a circle of glowing fireflies in the twilight forest."}
+{"topic": "swinging_2", "prompt": "A penguin swinging from a tree branch."}
+{"topic": "standing-next-to_2", "prompt": "A peacock standing next to a traffic light."}
+{"topic": "skateboarding_2", "prompt": "A penguin skillfully maneuvering on a skateboard."}
+{"topic": "flying_2", "prompt": "A penguin soaring through the sky with outstretched wings."}
+{"topic": "pulling_2", "prompt": "An octopus pulling open a jar with its tentacles."}
+{"topic": "pulled-by_2", "prompt": "A porcupine pulled by a small radio-controlled drone."}
+{"topic": "contain_2", "prompt": "A raccoon contains a shiny collection of assorted treasures in its secret den."}
+{"topic": "hitting_2", "prompt": "An octopus hitting a plastic bottle with its tentacle."}
+{"topic": "lying-in_2", "prompt": "A giraffe lying in a yoga class, stretching its long neck in the pose."}
+{"topic": "standing-by_2", "prompt": "A penguin standing by and watching a game of chess intently."}
+{"topic": "driving-on_2", "prompt": "A penguin driving on a scooter down the icy road."}
+{"topic": "throwing_2", "prompt": "An octopus throwing seashells at passing fish."}
+{"topic": "sitting-on-top-of_2", "prompt": "A peacock sitting on top of a grand piano."}
+{"topic": "reading-books_2", "prompt": "A bat reading books by flashlight in a library."}
+{"topic": "walking-down_2", "prompt": "A hedgehog walking down a spiral staircase with tiny steps."}
+{"topic": "parked-in_2", "prompt": "A flamingo parked in a bicycle rack with one leg tucked away like a kickstand."}
+{"topic": "standing-near_2", "prompt": "A flamingo standing near a bustling city street, peering curiously at the passing cars."}
+{"topic": "growing-on", "prompt": "A panda growing on a high bamboo tree, adapting to its arboreal home with ease."}
+{"topic": "standing-behind_2", "prompt": "A hedgehog quietly standing behind a tall mushroom, peering curiously at the forest path."}
+{"topic": "playing-chess_4", "prompt": "An octopus playing chess on a rocky shore."}
+{"topic": "playing_2", "prompt": "An octopus playing with a Rubik's cube in a shallow tide pool."}
+{"topic": "mounted-on_2", "prompt": "An octopus mounted on a skateboard."}
+{"topic": "surfing", "prompt": "A penguin expertly balancing and riding a surfboard on ocean waves."}
+{"topic": "talking-on", "prompt": "A penguin talking on a cell phone in the middle of a snowy landscape."}
+{"topic": "facing_2", "prompt": "An octopus facing a stormy sea."}
+{"topic": "leaning-against_2", "prompt": "An octopus leaning against a shipwreck, exploring its environment with curiosity."}
+{"topic": "cutting_2", "prompt": "A beaver using a pair of scissors to cut paper."}
+{"topic": "driving_2", "prompt": "A penguin driving a miniature car on an icy track."}
+{"topic": "worn-on_2", "prompt": "An octopus wearing a tiny hat on its head."}
+{"topic": "resting-on_2", "prompt": "A penguin resting on a hammock."}
+{"topic": "floating-in_2", "prompt": "A porcupine floating in on an inflatable raft."}
+{"topic": "lying-on-top-of_2", "prompt": "A turtle lying on top of a dolphin."}
+{"topic": "catching_2", "prompt": "A kangaroo catching a frisbee mid-air with its paws."}
+{"topic": "grazing-on_2", "prompt": "A rabbit grazing on seaweed washed ashore."}
+{"topic": "standing-in-front-of_2", "prompt": "A walrus standing in front of a lectern, delivering a lecture to an attentive audience."}
+{"topic": "drinking_2", "prompt": "A porcupine drinking milkshake through a straw."}
+{"topic": "topped-with_2", "prompt": "A turtle topped with a miniature garden of succulents."}
+{"topic": "playing-in_2", "prompt": "An octopus playing in a rock band, expertly drumming with all its tentacles."}
+{"topic": "walking-with_2", "prompt": "A penguin strolling alongside a turtle."}
+{"topic": "swimming-in_2", "prompt": "A curious deer gracefully swimming in a serene forest pond."}
+{"topic": "driving-down_2", "prompt": "A raccoon driving down the highway in a convertible."}
+{"topic": "hanging-over_2", "prompt": "A raccoon hanging over a branch like a lazy hammock sleeper."}
+{"topic": "pushed-by", "prompt": "An armadillo pushed by a curious tortoise through the tall grass."}
+{"topic": "pushing_3", "prompt": "An octopus gently pushing a glass bottle across the ocean floor."}
+{"topic": "playing-on_2", "prompt": "A penguin playing on a piano."}
+{"topic": "sitting-next-to_2", "prompt": "A penguin sitting next to a campfire, warming its flippers."}
+{"topic": "playing-the-piano", "prompt": "A cheetah playing the piano with elegance and speed."}
+{"topic": "feeding_2", "prompt": "A bat delicately sipping nectar from a flower with its long, specialized tongue."}
+{"topic": "running-on_2", "prompt": "A rabbit running on a treadmill while wearing tiny sneakers."}
+{"topic": "gripping", "prompt": "An anime of a koala gripping a smartphone tightly in its paws."}
+{"topic": "clutching", "prompt": "An anime of a raven clutching a shiny coin in its beak, as it flies swiftly through the forest."}
+{"topic": "hugging", "prompt": "An anime of an octopus wrapping its arms around a rock, appearing as though it's hugging it."}
+{"topic": "clasping", "prompt": "An anime of a monkey clasping a tablet while navigating through apps."}
+{"topic": "twisting", "prompt": "An anime of a flamingo expertly twisting into a pretzel shape."}
+{"topic": "lifting", "prompt": "An anime of a raccoon lifting a dumbbell in the forest gym."}
+{"topic": "balancing", "prompt": "An anime of a flamingo balancing a stack of books on its beak."}
+{"topic": "squeezing", "prompt": "An anime of an octopus skillfully squeezing through a tiny crevice in a coral reef."}
+{"topic": "pressing", "prompt": "An anime of a cat pressing buttons on a remote control."}
+{"topic": "pinching", "prompt": "An anime of a raccoon pinching acorns from a squirrel's stash."}
+{"topic": "pulling_3", "prompt": "An anime of an octopus pulling a rope towards a sunken treasure chest."}
+{"topic": "pushing_4", "prompt": "An anime of a penguin pushing a small sleigh across the ice."}
+{"topic": "wrapping", "prompt": "An anime of an octopus wrapping a gift with colorful paper and ribbons."}
+{"topic": "cupping", "prompt": "An anime of a chimpanzee practicing cupping therapy on another chimpanzee using leaves and stones."}
+{"topic": "stroking", "prompt": "An anime of a parrot gently stroking the head of a sleeping cat with its beak."}
+{"topic": "rubbing", "prompt": "An anime of a porcupine rubbing its quills against a tree to soothe an itch."}
+{"topic": "kneading", "prompt": "An anime of a penguin kneading the snow with its flippers."}
+{"topic": "twirling", "prompt": "An anime of a peacock twirling elegantly while displaying its vibrant tail feathers."}
+{"topic": "braiding", "prompt": "An anime of a raccoon expertly braiding strands of colorful yarn found near a picnic area."}
+{"topic": "weaving", "prompt": "An anime of a spider intricately weaving a colorful tapestry."}
+{"topic": "shaping", "prompt": "An anime of a raven shaping a clay sculpture with its beak."}
+{"topic": "molding", "prompt": "An anime of a raccoon skillfully molds clay into intricate sculptures."}
+{"topic": "rolling", "prompt": "An anime of a snake rolling through the sand like a living hoop."}
+{"topic": "spinning", "prompt": "An anime of a giraffe gracefully spinning around like a ballerina in the savanna."}
+{"topic": "tapping", "prompt": "An anime of a woodpecker tapping out a rhythm on a tree to communicate with others."}
+{"topic": "scratching", "prompt": "An anime of an octopus scratching its head with a tentacle."}
+{"topic": "clapping", "prompt": "An anime of a turtle clapping its flippers together enthusiastically."}
+{"topic": "smudging", "prompt": "An anime of a badger applying smudges of natural pigments on rocks for decoration."}
+{"topic": "flicking", "prompt": "An anime of a cat flicking its tail in rhythm to a nearby bird's song."}
+{"topic": "catching_2", "prompt": "An anime of an antelope catching a butterfly with its front hooves."}
+{"topic": "tossing_3", "prompt": "An anime of a dolphin playfully tossing a colorful beach ball in the ocean waves."}
+{"topic": "kicking", "prompt": "An anime of a penguin fiercely kicking a beach ball across the icy landscape."}
+{"topic": "propping", "prompt": "An anime of a flamingo propping up its fellow with one of its long legs."}
+{"topic": "supporting", "prompt": "An anime of a tiny bird supporting a large branch with its wings."}
+{"topic": "cradling", "prompt": "An anime of a raccoon cradling a sleeping kitten in its arms."}
+{"topic": "wiping", "prompt": "An anime of a raccoon carefully wiping its paws on a damp leaf."}
+{"topic": "polishing", "prompt": "An anime of a raccoon polishing its collection of shiny objects with a soft cloth."}
+{"topic": "dusting", "prompt": "An anime of a raccoon using its tail to dust off a picnic table."}
+{"topic": "scrubbing", "prompt": "An anime of an otter scrubbing its favorite rock to a shiny finish."}
+{"topic": "slapping", "prompt": "An anime of a penguin slapping a snowball with its flipper."}
+{"topic": "punching", "prompt": "An anime of an octopus punching a fish in the ocean."}
+{"topic": "drumming", "prompt": "An anime of a raccoon drumming on a trash can lid with nimble paws, creating a rhythm in the moonlit alley."}
+{"topic": "doodling", "prompt": "An anime of a turtle doodling with a stick in the sand."}
+{"topic": "carving", "prompt": "An anime of a chimpanzee carefully carving intricate patterns into a wooden block using a small chisel."}
+{"topic": "shuffling", "prompt": "An anime of a penguin shuffling a deck of cards with its flippers."}
+{"topic": "stacking", "prompt": "An anime of a raccoon stacking colorful autumn leaves into a tall, neat pile."}
+{"topic": "arranging", "prompt": "An anime of a beaver arranging a set of colorful autumn leaves in a neat circle on the forest floor."}
+{"topic": "aligning", "prompt": "An anime of a chameleon aligning leaves to create the perfect sunbathing spot."}
+{"topic": "linking", "prompt": "An anime of a chameleon linking chains into intricate patterns."}
+{"topic": "snapping", "prompt": "An anime of a turtle snapping its beak at a floating leaf."}
+{"topic": "twisting_2", "prompt": "An anime of an octopus twisting its tentacles into intricate knots."}
+{"topic": "unrolling", "prompt": "An anime of an armadillo unrolling from its ball-like protective form."}
+{"topic": "folding", "prompt": "An anime of a raccoon carefully folding a picnic blanket with its nimble paws."}
+{"topic": "creasing", "prompt": "An anime of a raccoon meticulously ironing creases into its own clothes."}
+{"topic": "peeling", "prompt": "An anime of a beaver peeling the bark off a tree trunk with skillful precision."}
+{"topic": "popping", "prompt": "An anime of a gecko blowing bubbles that pop in mid-air."}
+{"topic": "tying_3", "prompt": "An anime of a raccoon tying its shoelaces with dexterous paws."}
+{"topic": "knotting", "prompt": "An anime of an octopus knotting seaweed into intricate designs."}
+{"topic": "stretching", "prompt": "An anime of a giraffe stretches its neck to reach the juiciest leaves high up in the acacia tree."}
+{"topic": "flicking_2", "prompt": "An anime of a hummingbird flicking a paintbrush with its beak to create art."}
+{"topic": "skipping", "prompt": "An anime of a penguin skipping across the ice with surprising agility."}
+{"topic": "waving", "prompt": "An anime of an octopus waving its tentacle as if to say hello."}
+{"topic": "shaking", "prompt": "An anime of an owl shaking with excitement after spotting a tasty mouse."}
+{"topic": "fanning", "prompt": "An anime of a squirrel using a leaf to fan itself on a hot day."}
+{"topic": "poking", "prompt": "An anime of a raccoon poking a sleeping cat with its paw."}
+{"topic": "nudging", "prompt": "An anime of an octopus gently nudging a seashell across the ocean floor."}
+{"topic": "flipping", "prompt": "An anime of a penguin flipping pancakes on a hot skillet."}
+{"topic": "scooping", "prompt": "An anime of a penguin scooping ice cream into a cone."}
+{"topic": "ladling", "prompt": "An anime of a raccoon skillfully ladling soup from a pot over a campfire."}
+{"topic": "swiping", "prompt": "An anime of a raccoon swiping fruit from an open picnic basket."}
+{"topic": "tugging_2", "prompt": "An anime of an octopus tugging at a fisherman's net with its tentacles."}
+{"topic": "shoveling", "prompt": "An anime of a raccoon shoveling dirt with a tiny spade."}
+{"topic": "sifting", "prompt": "An anime of a raccoon carefully sifting through the sand at the edge of a river to find hidden morsels."}
+{"topic": "spreading", "prompt": "An anime of a chameleon spreading its vibrant colors across a canvas."}
+{"topic": "smoothing", "prompt": "An anime of a porcupine using its quills to smooth out the ground before resting."}
+{"topic": "plucking", "prompt": "An anime of a raccoon plucking ripe berries from a bush with its nimble paws."}
+{"topic": "patting", "prompt": "An anime of a cat gently patting a sleeping dog with its paw."}
+{"topic": "scraping", "prompt": "An anime of a raccoon scraping at the soil with its nimble paws to uncover hidden seeds and insects."}
+{"topic": "slathering", "prompt": "An anime of a bird slathering sunscreen on its feathers as it perches in the sun."}
+{"topic": "dipping", "prompt": "An anime of a fox carefully dipping its paw into a pond to catch fish."}
+{"topic": "drizzling", "prompt": "An anime of a turtle causing a gentle rain with tiny rainclouds trailing beneath its shell."}
+{"topic": "squeezing_2", "prompt": "An anime of an octopus squeezing into a tiny crevice."}
+{"topic": "stamping", "prompt": "An anime of a penguin stamping letters with its flipper."}
+{"topic": "tracing", "prompt": "An anime of a fox tracing ancient symbols in the snow with its paw."}
+{"topic": "sketching", "prompt": "An anime of a penguin sketching with charcoal on an iceberg."}
+{"topic": "threading", "prompt": "An anime of a bird threading a needle with its beak to create a nest with precision."}
+{"topic": "embroidering", "prompt": "An anime of a parrot intricately embroidering fabric with its beak."}
+{"topic": "tugging_2", "prompt": "An anime of an otter tugging on a long piece of seaweed, playfully pulling it through the water."}
+{"topic": "ruffling", "prompt": "An anime of a rabbit ruffling its fur like a fluffy duster."}
+{"topic": "petting", "prompt": "An anime of a cat gently petting a dog while it lies on the floor."}
+{"topic": "nuzzling", "prompt": "An anime of an octopus gently nuzzling a diver's mask."}
+{"topic": "tickling", "prompt": "An anime of an octopus tickling its own tentacles with curiosity."}
+{"topic": "pressing_2", "prompt": "An anime of a rabbit ironing clothes meticulously with a miniature iron."}
+{"topic": "adjusting", "prompt": "An anime of an octopus adjusting the settings on a thermostat."}
+{"topic": "placing", "prompt": "An anime of a koala placing eucalyptus leaves on a neatly arranged branch."}
+{"topic": "tucking", "prompt": "An anime of a raccoon tucking a small blanket around its sleeping pup."}
+{"topic": "snapping_2", "prompt": "An anime of a frog snapping its fingers rhythmically to create a catchy tune."}
+{"topic": "clicking", "prompt": "An anime of a raccoon clicking its claws together rhythmically in the moonlight."}
+{"topic": "twisting_3", "prompt": "An anime of an octopus twisting its tentacles around seaweed to mimic the swaying underwater plants."}
+{"topic": "rotating", "prompt": "An anime of a hummingbird spinning around on a branch like a tiny ballet dancer."}
+{"topic": "pushing_5", "prompt": "An anime of an octopus pushing a heavy rock across the ocean floor."}
+{"topic": "tapping_2", "prompt": "An anime of a rabbit tapping a Morse code message on a tree branch."}
+{"topic": "juggling", "prompt": "An anime of a monkey juggling coconuts by the waterfall."}
+{"topic": "spinning_2", "prompt": "An anime of a penguin spinning gracefully on ice like a figure skater."}
+{"topic": "whittling", "prompt": "An anime of a beaver expertly whittling a wooden stick with its sharp teeth."}
+{"topic": "cranking", "prompt": "An anime of a beaver cranking up a complex wooden mechanism in the forest that it built with its own paws."}
+{"topic": "drumming_2", "prompt": "An anime of a raccoon drumming on a tree stump with sticks."}
+{"topic": "polishing_2", "prompt": "An anime of a raccoon diligently polishing a shiny metal spoon with a soft cloth."}
+{"topic": "filing", "prompt": "An anime of a bear filing documents in an office."}
+{"topic": "plating", "prompt": "An anime of a hedgehog carefully arranging its dinner on a fine china plate."}
+{"topic": "tacking", "prompt": "An anime of a parrot tacking a note to the wall."}
+{"topic": "wrapping_2", "prompt": "An anime of an otter skillfully wrapping a fish with seaweed like a sushi roll."}
+{"topic": "dabbing", "prompt": "An anime of a penguin striking a dab pose on an icy slope."}
+{"topic": "buffing", "prompt": "An anime of a hedgehog meticulously buffing its spines against a smooth rock to achieve a polished look."}
+{"topic": "dancing_2", "prompt": "An anime of a penguin performing a ballroom dance routine underwater."}
+{"topic": "pouring_2", "prompt": "An anime of an octopus pouring water into a small teacup using its dexterous tentacle."}
+{"topic": "shaking_2", "prompt": "An anime of a kangaroo shaking its tail like a rattlesnake."}
+{"topic": "swiping_2", "prompt": "An anime of a raccoon swiping credit cards at a vending machine."}
+{"topic": "jostling", "prompt": "An anime of a swarm of bees jostling to enter their hive after a busy day collecting nectar."}
+{"topic": "stirring", "prompt": "An anime of a bear stirring a pot with a wooden spoon."}
+{"topic": "assemble-chair", "prompt": "An anime of a beaver assembling a chair with wooden sticks and leaves."}
+{"topic": "burn-wood", "prompt": "An anime of a beaver igniting wood with flint and steel tools."}
+{"topic": "clip-cloth", "prompt": "An anime of a squirrel deftly clipping pieces of cloth with tiny clothes pegs on a miniature laundry line."}
+{"topic": "crack-coconut", "prompt": "An anime of a chimpanzee cracking open a coconut with a rock."}
+{"topic": "decorate-cake", "prompt": "An anime of a platypus expertly decorating a cake with intricate icing patterns."}
+{"topic": "dip-pen-ink", "prompt": "An anime of a chameleon sketching with a dip pen and ink."}
+{"topic": "fold-paper-crane", "prompt": "An anime of a raccoon expertly folding paper into cranes."}
+{"topic": "hang-picture", "prompt": "An anime of a sloth hanging a picture frame on a tree branch."}
+{"topic": "measure-flour", "prompt": "An anime of a bear precisely measuring flour with a kitchen scale before baking a cake."}
+{"topic": "mix-dough", "prompt": "An anime of a rabbit mixes dough in a tiny chef's kitchen."}
+{"topic": "mount-painting", "prompt": "An anime of a monkey painting landscapes on a mountain slope."}
+{"topic": "paint-mural", "prompt": "An anime of a raccoon painting a mural on the wall of a city alley."}
+{"topic": "pour-syrup", "prompt": "An anime of a raccoon pouring syrup over a stack of pancakes."}
+{"topic": "saw-ice", "prompt": "An anime of a squirrel using a saw to carve intricate sculptures in ice."}
+{"topic": "sew-button", "prompt": "An anime of a squirrel expertly sewing a button onto a small piece of fabric using a needle and thread."}
+{"topic": "sew-patch", "prompt": "An anime of a panda skillfully sewing patches onto its bamboo leaf quilt."}
+{"topic": "shape-clay", "prompt": "An anime of a koala sculpting intricate figures with clay."}
+{"topic": "shovel-snow", "prompt": "An anime of a raccoon shoveling snow with a tiny shovel."}
+{"topic": "sketch-blueprint", "prompt": "An anime of an owl creating a detailed blueprint for a new treehouse."}
+{"topic": "sort-silverware", "prompt": "An anime of a raccoon in the kitchen sorting silverware into neat piles."}
+{"topic": "spray-paint", "prompt": "An anime of an octopus using its tentacles to spray-paint colorful patterns on the ocean floor."}
+{"topic": "spread-butter", "prompt": "An anime of a squirrel spreading butter on a piece of toast."}
+{"topic": "spread-paint", "prompt": "An anime of a squirrel skillfully using its tail as a brush to spread paint on a canvas."}
+{"topic": "chop-vegetables", "prompt": "An anime of a pigeon chopping vegetables with a tiny knife."}
+{"topic": "sharpen-pencil", "prompt": "An anime of a squirrel sharpening pencils with its small, dexterous paws and tiny sharpener."}
+{"topic": "drill-hole", "prompt": "An anime of a raccoon expertly using a power drill to make precise holes in a wooden fence."}
+{"topic": "slice-bread", "prompt": "An anime of a giraffe expertly slicing bread with its long neck and precise tongue movements."}
+{"topic": "hammer-nail", "prompt": "An anime of a beaver hammering a nail into wood with its tail."}
+{"topic": "saw-plank", "prompt": "An anime of an owl cutting a plank with a saw."}
+{"topic": "stir-soup", "prompt": "An anime of a fox stirs soup with its tail in a forest clearing."}
+{"topic": "sew-fabric", "prompt": "An anime of a beaver expertly sewing fabric with its tiny paws, creating intricate quilts."}
+{"topic": "knit-scarf", "prompt": "An anime of a penguin wearing a colorful knit scarf waddles along the icy shoreline."}
+{"topic": "whisk-eggs", "prompt": "An anime of a squirrel whisking eggs with a tiny whisk."}
+{"topic": "grate-cheese", "prompt": "An anime of a squirrel expertly grating cheese with its tiny paws."}
+{"topic": "peel-apple", "prompt": "An anime of a chameleon peels an apple with its nimble tongue."}
+{"topic": "crack-walnut", "prompt": "An anime of a turtle effortlessly cracks walnuts with its powerful beak."}
+{"topic": "roll-dough", "prompt": "An anime of a panda expertly rolling dough to make dumplings."}
+{"topic": "frost-cupcake", "prompt": "An anime of an owl delicately balances a frost-covered cupcake on its head while surveying the winter landscape."}
+{"topic": "flip-pancake", "prompt": "An anime of a raccoon expertly flipping pancakes with a spatula."}
+{"topic": "grill-steak", "prompt": "An anime of a squirrel expertly flipping steaks on a grill."}
+{"topic": "dice-carrots", "prompt": "An anime of a rabbit rolling dice made of carrots during a board game."}
+{"topic": "scramble-eggs", "prompt": "An anime of a porcupine expertly preparing scrambled eggs using miniature cooking tools."}
+{"topic": "boil-pasta", "prompt": "An anime of a squirrel boiling pasta in a tiny pot on a miniature stove."}
+{"topic": "roast-marshmallow", "prompt": "An anime of a chameleon roasting marshmallows over a tiny campfire."}
+{"topic": "squeeze-lemon", "prompt": "An anime of a squirrel squeezing a lemon with its paws to make fresh juice."}
+{"topic": "grind-coffee", "prompt": "An anime of a raccoon expertly grinding coffee with its nimble paws."}
+{"topic": "sculpt-ice", "prompt": "An anime of a penguin sculpting intricate ice sculptures with its beak and flippers."}
+{"topic": "weld-metal", "prompt": "An anime of a beaver expertly welding metal to construct a dam reinforced with steel beams."}
+{"topic": "etch-glass", "prompt": "An anime of a chameleon etching intricate designs on glass with its delicate claws."}
+{"topic": "sand-wood", "prompt": "An anime of a creature that intricately weaves together sand and driftwood to create its seaside nest, camouflaging seamlessly with the shore."}
+{"topic": "string-beads", "prompt": "An anime of a squirrel stringing beads into a colorful necklace."}
+{"topic": "carve-pumpkin", "prompt": "An anime of a raccoon skillfully carving a pumpkin with its nimble paws."}
+{"topic": "mend-socks", "prompt": "An anime of a chameleon mending socks with its long, dexterous tongue."}
+{"topic": "tie-knot", "prompt": "An anime of a bear skillfully tying a knot in a rope."}
+{"topic": "cut-origami", "prompt": "An anime of a squirrel expertly folding and cutting paper into intricate origami shapes."}
+{"topic": "bend-wire", "prompt": "An anime of an octopus skillfully bending wire to create intricate sculptures under the sea."}
+{"topic": "engrave-stone", "prompt": "An anime of a spider engraving intricate patterns on a stone with silk threads."}
+{"topic": "pour-tea", "prompt": "An anime of an owl carefully pouring tea from a delicate teapot into tiny cups."}
+{"topic": "ladle-soup", "prompt": "An anime of a kangaroo ladling soup into bowls at a picnic."}
+{"topic": "weave-basket", "prompt": "An anime of a squirrel weaving a basket from twigs and leaves."}
+{"topic": "thread-needle", "prompt": "An anime of a chameleon threading a needle with its dexterous tongue."}
+{"topic": "sketch-bird", "prompt": "An anime of a bird creating intricate drawings with a small pencil held in its beak."}
+{"topic": "chisel-marble", "prompt": "An anime of a badger skillfully carving intricate patterns into a block of marble using its sharp claws."}
+{"topic": "polish-shoe", "prompt": "An anime of a squirrel vigorously polishing shoes with a small brush and cloth."}
+{"topic": "blow-glass", "prompt": "An anime of a squirrel skillfully crafting intricate glass sculptures by blowing through a miniature glassblowing pipe."}
+{"topic": "stamp-seal", "prompt": "An anime of a seal stamping documents with a personalized seal."}
+{"topic": "dip-paintbrush", "prompt": "An anime of a raccoon dipping a paintbrush into a can of paint."}
+{"topic": "spray-graffiti", "prompt": "An anime of a raccoon skillfully spray-painting graffiti on a wall."}
+{"topic": "lace-shoes", "prompt": "An anime of a hedgehog carefully lacing up tiny shoes with its spiky little paws."}
+{"topic": "brush-hair", "prompt": "An anime of a hedgehog using a comb to brush its spines, arranging them neatly."}
+{"topic": "write-calligraphy", "prompt": "An anime of an owl gracefully writing calligraphy with a quill under the moonlight."}
+{"topic": "erase-mistake", "prompt": "An anime of an owl methodically erasing mistakes on a chalkboard with a tiny eraser."}
+{"topic": "clamp-wood", "prompt": "An anime of a beaver skillfully clamping onto a piece of wood with its powerful jaws."}
+{"topic": "file-nail", "prompt": "An anime of a raccoon filing its nails with a small emery board found in a park."}
+{"topic": "clip-coupon", "prompt": "An anime of a squirrel clipping coupons from a newspaper using tiny scissors."}
+{"topic": "punch-hole", "prompt": "An anime of a penguin meticulously punching holes in a sheet of paper using a hole puncher."}
+{"topic": "staple-paper", "prompt": "An anime of a squirrel expertly staples papers together with a tiny office stapler."}
+{"topic": "tape-box", "prompt": "An anime of a squirrel using a tape dispenser to neatly close boxes."}
+{"topic": "tie-bow", "prompt": "An anime of a squirrel expertly tying a bowtie around its neck."}
+{"topic": "glaze-pottery", "prompt": "An anime of a cat skillfully glazing pottery on a turning wheel."}
+{"topic": "stack-books", "prompt": "An anime of a raccoon meticulously stacking books into a tall, teetering tower in the library."}
+{"topic": "roll-sushi", "prompt": "An anime of a penguin expertly rolling sushi on a bamboo mat."}
+{"topic": "fill-bottle", "prompt": "An anime of a raccoon expertly filling a bottle with water using its nimble paws at a creek."}
+{"topic": "slice-melon", "prompt": "An anime of a raccoon expertly slicing a melon with its sharp claws."}
+{"topic": "scoop-ice-cream", "prompt": "An anime of a squirrel skillfully scooping ice cream into a cone using its tiny paws."}
+{"topic": "carve-sign", "prompt": "An anime of a raccoon carving a sign into a tree using its sharp claws."}
+{"topic": "build-clock", "prompt": "An anime of a beaver in the forest carefully assembles wooden gears and tiny hands to create a functioning clock."}
+{"topic": "stretch-canvas", "prompt": "An anime of a chameleon masterfully stretches its body across a vibrant canvas, seamlessly blending its colors to mimic a work of art."}
+{"topic": "pluck-strings", "prompt": "An anime of an owl skillfully playing a harp, plucking each string with its talons to create enchanting melodies."}
+{"topic": "shred-paper", "prompt": "An anime of a squirrel enthusiastically shredding paper into tiny confetti with its sharp teeth."}
+{"topic": "scrape-icing", "prompt": "An anime of a fox scrape-icing a frozen lake with its claws to reveal the slippery surface underneath."}
+{"topic": "light-candle", "prompt": "An anime of a rabbit expertly lighting a candle with a match."}
+{"topic": "zip-jacket", "prompt": "An anime of a raccoon skillfully zipping up its jacket."}
+{"topic": "unlock-door", "prompt": "An anime of a raccoon skillfully unlocking a door with its nimble paws."}
+{"topic": "wrap-gift", "prompt": "An anime of a raccoon expertly wrapping gifts with colorful paper and ribbons."}
+{"topic": "rinse-brush", "prompt": "An anime of a raccoon using a toothbrush to rinse and brush its fur with sparkling streams of water."}
+{"topic": "fold-laundry", "prompt": "An anime of a raccoon folding laundry with meticulous precision."}
+{"topic": "pour-candle-wax", "prompt": "An anime of a lemur pouring candle wax into ornate shapes."}
+{"topic": "whittle-stick", "prompt": "An anime of a hedgehog skillfully carves intricate designs into tree branches with a tiny knife."}
+{"topic": "cut-hair", "prompt": "An anime of a squirrel cutting its hair with tiny scissors."}
+{"topic": "plaster-wall", "prompt": "An anime of a family of geckos camouflaging against a plaster wall, blending seamlessly with the textured surface."}
+{"topic": "glue-model", "prompt": "An anime of an octopus constructing a miniature model using glue and various materials."}
+{"topic": "mix-paint", "prompt": "An anime of a zebra mixing paint with its hooves to create colorful abstract art on a large canvas."}
+{"topic": "stencil-design", "prompt": "An anime of a chameleon changing colors to match intricate stencil patterns on an artist\u2019s canvas."}
+{"topic": "thread-loom", "prompt": "An anime of a raccoon weaving intricate patterns with threads on a loom."}
+{"topic": "cut-paper-snowflake", "prompt": "An anime of an elephant carefully crafting intricate cut-paper-snowflakes with its trunk."}
+{"topic": "iron-shirt", "prompt": "An anime of an armadillo wears an iron shirt for protection."}
+{"topic": "chainmail-weaving", "prompt": "An anime of a chameleon skillfully weaving chainmail with its dexterous tail."}
+{"topic": "stamp-pattern", "prompt": "An anime of a chameleon displaying a stamp-pattern on its skin."}
+{"topic": "embroider-flower", "prompt": "An anime of a squirrel skillfully embroidering intricate patterns on petals of a flower."}
+{"topic": "stack-firewood", "prompt": "An anime of a squirrel meticulously stacking firewood in neat, organized piles."}
+{"topic": "filter-coffee", "prompt": "An anime of a squirrel brewing a perfect cup of filter coffee."}
+{"topic": "frost-window", "prompt": "An anime of a curious bird drawing intricate designs on a frost-covered window with its beak."}
+{"topic": "tie-fishing-line", "prompt": "An anime of a fox skillfully tying a fishing line into intricate knots by the riverbank."}
+{"topic": "shape-snowball", "prompt": "An anime of an octopus curling its limbs into a round ball, resembling a snowball."}
+{"topic": "drill-teeth", "prompt": "An anime of a beaver using its teeth like a drill to carve intricate patterns in wood."}
+{"topic": "paint-fence", "prompt": "An anime of a squirrel carefully applying paint to a wooden fence, using its small paws to wield a tiny paintbrush with precision."}
+{"topic": "sharpen-knife", "prompt": "An anime of a crow sharpening a knife with its beak."}
+{"topic": "pour-molten-metal", "prompt": "An anime of a raccoon expertly pouring molten metal into a mold, wearing protective goggles."}
+{"topic": "cut-ribbon", "prompt": "An anime of a deer expertly using its antlers to cut a ribbon in a forest ceremony."}
+{"topic": "stretch-cloth", "prompt": "An anime of a chameleon using its tongue to measure and stretch fabric."}
+{"topic": "fold-napkin", "prompt": "An anime of a raccoon expertly folding a napkin into an intricate origami shape."}
+{"topic": "heat-metal", "prompt": "An anime of a chameleon heating metal with its skin."}
+{"topic": "frame-picture", "prompt": "An anime of an octopus painting a landscape on a canvas."}
+{"topic": "string-violin", "prompt": "An anime of a squirrel playing a violin made of strings."}
+{"topic": "curl-hair", "prompt": "An anime of a rabbit with curly hair grazing in a meadow."}
+{"topic": "carve-soap", "prompt": "An anime of a raccoon expertly carving intricate designs into a bar of soap with its nimble paws."}
+{"topic": "squeeze-clay", "prompt": "An anime of a hedgehog shaping clay into tiny sculptures using its paws."}
+{"topic": "lay-tiles", "prompt": "An anime of a beaver expertly arranging and laying tiles to construct a detailed mosaic on the riverbank."}
+{"topic": "weave-rug", "prompt": "An anime of a raccoon meticulously weaving a colorful rug on a small loom."}
+{"topic": "nail-shoe", "prompt": "An anime of a turtle wearing shoes made of nails."}
+{"topic": "stitch-wound", "prompt": "An anime of a squirrel mending its wound with tiny needle and thread."}
+{"topic": "break-egg", "prompt": "An anime of a curious otter skillfully cracks open an egg with a smooth stone, inspecting its contents with keen interest."}
+{"topic": "spread-jam", "prompt": "An anime of a hedgehog carefully spreading jam on toast with a tiny knife."}
+{"topic": "poke-hole", "prompt": "An anime of a hedgehog using its spines to poke holes in a piece of paper."}
+{"topic": "patch-clothes", "prompt": "An anime of a fox sewing patchwork clothes from colorful fabric scraps."}
+{"topic": "snap-twig", "prompt": "An anime of a squirrel using a twig to snap its food open, showcasing unexpected dexterity."}
+{"topic": "snap-chopsticks", "prompt": "An anime of a raccoon expertly using chopsticks to snap up and eat sushi."}
+{"topic": "pick-lock", "prompt": "An anime of a raccoon using its nimble paws to pick a lock."}
+{"topic": "snip-hedge", "prompt": "An anime of a snip-hedge expertly trims bushes with tiny golden shears."}
+{"topic": "clean-brush", "prompt": "An anime of a squirrel cleaning leaves with a small brush."}
+{"topic": "file-metal", "prompt": "An anime of a crow meticulously organizing and classifying shiny pieces of metal into a file cabinet."}
+{"topic": "press-flower", "prompt": "An anime of a porcupine carefully pressing a vibrant daisy between the pages of a large botanical journal."}
+{"topic": "scoop-sand", "prompt": "An anime of a fox skillfully scooping sand with its paws to uncover hidden treasures."}
+{"topic": "mold-snowman", "prompt": "The mold grows on a snowman, giving it a greenish tinge and fuzzy texture."}
+{"topic": "snap-photo", "prompt": "An anime of a cat snapping photos with a camera."}
+{"topic": "knot-rope", "prompt": "An anime of a monkey ties intricate knots with a long piece of rope."}
+{"topic": "chop-logs", "prompt": "An anime of a beaver wielding an axe to chop logs with precision."}
+{"topic": "chain-carvings", "prompt": "An anime of a monkey creating intricate chain-carvings on a tree trunk using its sharp claws."}
+{"topic": "stir-sauce", "prompt": "An anime of a raccoon expertly stirring sauce in a small pot with a wooden spoon."}
+{"topic": "cut-vinyl", "prompt": "An anime of an octopus expertly cutting vinyl records with its agile tentacles."}
+{"topic": "fold-fan", "prompt": "An anime of an octopus using its tentacles to expertly fold a fan from seaweed, creating intricate patterns as it moves gracefully through the ocean currents."}
+{"topic": "tape-frame", "prompt": "An anime of a tape-frame creating intricate structures with its flexible limbs."}
+{"topic": "trim-trees", "prompt": "An anime of a beaver efficiently grooming and shaping trees with expert precision, using its sharp teeth like a master gardener."}
+{"topic": "sift-flour", "prompt": "An anime of a squirrel sifting flour with a tiny sieve."}
+{"topic": "stir-coffee", "prompt": "An anime of a cat stirring coffee with a spoon."}
+{"topic": "whisk-cream", "prompt": "An anime of a squirrel whipping cream into fluffy peaks using tiny utensils."}
+{"topic": "shell-peanut", "prompt": "An anime of a turtle meticulously cracking open a peanut shell with its beak-like mouth."}
+{"topic": "pry-lid", "prompt": "An anime of a curious raven prying open the lid of a picnic basket."}
+{"topic": "knead-bread", "prompt": "An anime of a raccoon kneading bread dough with its paws."}
+{"topic": "scrub-floor", "prompt": "An anime of a badger skillfully scrubbing the floor with a sponge, ensuring every nook and cranny shines."}
+{"topic": "filter-water", "prompt": "An anime of a bat using its wings to filter water while flying over a lake."}
+{"topic": "stain-wood", "prompt": "An anime of a beaver that skillfully stains wood with vibrant colors using natural dyes."}
+{"topic": "melt-chocolate", "prompt": "An anime of a curious otter melting chocolate with its warm paws."}
+{"topic": "stir-tea", "prompt": "An anime of an owl expertly stirring tea with a wooden spoon."}
+{"topic": "light-match", "prompt": "An anime of a raccoon expertly striking a match to light a campfire."}
+{"topic": "brush-coat", "prompt": "An anime of a squirrel sporting a bristly coat reminiscent of a brush."}
+{"topic": "tie-lace", "prompt": "An anime of a squirrel tying shoelaces with swift, nimble movements."}
+{"topic": "saw-bamboo", "prompt": "An anime of a creature resembling a koala using its sharp, blade-like claws to expertly cut and harvest bamboo stalks, adapting its natural climbing skills to prune and manage bamboo forests with precision."}
+{"topic": "peel-corn", "prompt": "An anime of a reclusive animal gently peels and carefully inspects each kernel of corn with its nimble fingers before consuming it with meticulous precision."}
+{"topic": "scrape-wax", "prompt": "An anime of a raccoon meticulously scraping wax from a honeycomb using its nimble paws."}
+{"topic": "rotate-key", "prompt": "An anime of a parrot skillfully rotating a key with its beak."}
+{"topic": "dip-spoon", "prompt": "An anime of a squirrel using a spoon to dip into a jar of honey."}
+{"topic": "stack-bricks", "prompt": "An anime of a beaver expertly stacking bricks by the riverbank."}
+{"topic": "weave-tapestry", "prompt": "An anime of a chameleon expertly transforms shades on a loom to weave intricate, colorful tapestries, blending into its vivid creation."}
+{"topic": "bind-book", "prompt": "An anime of a fox binding a book with meticulous precision in a woodland workshop."}
+{"topic": "decorate-mask", "prompt": "An anime of a beaver crafting an elaborate mask using twigs and leaves for its lodge entrance."}
+{"topic": "skim-cream", "prompt": "An anime of a fox darting across the meadow, deftly skimming the surface of puddled cream with its nimble paw, savoring the taste as it gathers swiftly."}
+{"topic": "pour-wine", "prompt": "An anime of an octopus delicately pouring wine into glasses with its tentacles."}
+{"topic": "paint-sculpture", "prompt": "An anime of a chameleon skillfully creating a paint-sculpture with its agile tongue and claws."}
