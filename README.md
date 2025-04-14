@@ -1,9 +1,18 @@
 # DetailScribe
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2504.08714-b31b1b.svg)](https://arxiv.org/abs/2504.08714)&nbsp;
+[![Project Page](https://img.shields.io/badge/Project-Link-blue)](https://concepts-ai.com/p/detailscribe/)
 
 
 This is an implementation of **DetailScribe**, as described in the paper [Generating Fine Details of Entity Interactions].
 ![DetailScribe](./fig/Fig2.jpg)
-
+```
+@article{gu2025detailscribe,
+      title={Generating Fine Details of Entity Interactions}, 
+      journal={arXiv preprint arXiv:2504.08714},
+      author={Xinyi Gu and Jiayuan Mao},
+      year={2025}
+}
+```
 DetailScribe achieves fine-grained image generation using a decomposition-augmented refinement procedure. The repository includes:
 
 * 🦔 A streamlined Diffusers-based implementation of **DetailScribe**.
